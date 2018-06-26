@@ -20,17 +20,17 @@
 }
 
 body {
-	max-width: 1400px;
+   max-width: 1400px;
    margin: 0 auto;
-	font-family: "PTSans", Verdana, sans-serif;
+   font-family: "PTSans", Verdana, sans-serif;
    font-weight: normal;
    font-size: 16px;
 }
 
 .container {
-	max-width: 940px;
-	margin: 0 auto;
-	padding: 0 10px;
+   max-width: 940px;
+   margin: 0 auto;
+   padding: 0 10px;
 }
 
 h1, h2, p, ul, li, a {
