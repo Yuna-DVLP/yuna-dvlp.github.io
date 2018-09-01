@@ -13,7 +13,7 @@
 
 > ## Моё портфолио
 
-!!! <a href="https://yuna-dvlp.github.io/yeseng/index.html" target="_blank">Адаптивный Landing Page</a>
+<a href="https://yuna-dvlp.github.io/yeseng/index.html" target="_blank">Адаптивный Landing Page</a>
 
 Технологии: HTML5, Pug, CSS3, Sass (SCSS), jQuery, Slick, Gulp.
 
