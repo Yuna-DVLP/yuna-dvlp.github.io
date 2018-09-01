@@ -27,6 +27,4 @@
 
 > ## Мои контакты
 
-!!! **Skype**
-
-!!! **E-mail**
+**E-mail** yuna.dvlp@gmail.com
