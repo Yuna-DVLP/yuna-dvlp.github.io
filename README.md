@@ -9,7 +9,7 @@
 * кроссбраузерная вёрстка (Google Chrome, Yandex Browser, Opera, Firefox, IE11), 
 * адаптивная вёрстка, 
 * браузерный JavaScript (ES5/ES6), jQuery,
-* опыт работы с Pug, Sass (SCSS), Gulp. Git, GitHub, Bitbucket.
+* опыт работы с Pug, Sass (SCSS), Gulp, Git, GitHub/Bitbucket.
 
 > ## Моё портфолио
 
