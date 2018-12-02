@@ -21,6 +21,7 @@
 
 Технологии: HTML5, CSS3, FontAwesome.
 
+![Cat](https://raw.githubusercontent.com/Yuna-DVLP/yuna-dvlp.github.io/cat.png)
 > ## Мои контакты
 
 **E-mail** yuna.dvlp@gmail.com
