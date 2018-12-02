@@ -21,7 +21,7 @@
 
 Технологии: HTML5, CSS3, FontAwesome.
 
-![](https://raw.githubusercontent.com/Yuna-DVLP/yuna-dvlp.github.io/blob/master/undraw_mail.png)
+!(https://raw.githubusercontent.com/Yuna-DVLP/yuna-dvlp.github.io/blob/master/undraw_mail.png)
 > ## Мои контакты
 
 **E-mail** yuna.dvlp@gmail.com
